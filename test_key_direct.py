@@ -1,7 +1,7 @@
 import requests
 import json
 
-key = "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"
+key = "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"
 
 print(f"Testing the new key: {key}")
 
